@@ -19,6 +19,18 @@
 12. android 源码研究
 13. 超牛的github项目
 14. 精通Android开发平台及框架原理；
+15. 有应用上架经验，熟悉各个Android软件市场规则和玩法者优先
+16. 精通Android性能和内存优化，善于解决系统崩溃，内存溢出和兼容性问题
+
+17. 代码质量测试框架，比如sona，和内存检测工具等
 
 高级研发经理
 
+
+
+
+
+
+必备知识点:
+1. 文字和图片混排，文字环绕图片 http://blog.csdn.net/freesonhp/article/details/10200377
+2. 微信分享 http://blog.csdn.net/freesonhp/article/details/10756663
