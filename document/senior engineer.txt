@@ -34,3 +34,23 @@
 必备知识点:
 1. 文字和图片混排，文字环绕图片 http://blog.csdn.net/freesonhp/article/details/10200377
 2. 微信分享 http://blog.csdn.net/freesonhp/article/details/10756663
+3. 多态和接口 http://www.cnblogs.com/mengdd/archive/2012/12/25/2832656.html
+4. qq空间分享 http://xiaoxiaomuyu.iteye.com/blog/2097746
+
+需要补充
+
+1.内存泄漏是怎么回事
+2.AirPlay和dlna原理
+3.java的内存管理
+4.java的设计模式
+5.生产者和消费者模式
+6.android 的技术原理，比如broadcast，aidl，contentprovider等
+7.google 源码查看
+8.java 编程思想  和java核心技术 要阅读 
+9.java effect 
+10.http://www.linuxidc.com/Linux/2011-11/48069.htm
+//扫描
+11.http://www.cnblogs.com/over140/archive/2012/11/07/2759241.html
+
+//扫描视频
+12.http://my.oschina.net/AlexZhuang/blog/57695
