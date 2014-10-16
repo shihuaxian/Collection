@@ -32,6 +32,10 @@
 高级研发经理
 
 
+产品经理
+1. 开发转产品经理 http://www.yixieshi.com/it/19238.html
+2. 互联网思维 http://www.woshipm.com/it/111751.html 《理想国》 和 《国富论》
+
 
 
 
@@ -44,6 +48,7 @@
 5. 优秀的开源代码 http://blog.csdn.net/cym492224103/article/details/38469251
 6. 很多整理的代码 http://blog.csdn.net/cym492224103/article/details/38467611
 7. UI 框架代码 http://guides.codepath.com/android
+8. 进阶 http://www.trinea.cn/android/ 
 
 需要补充
 
