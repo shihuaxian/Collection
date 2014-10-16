@@ -24,6 +24,11 @@
 
 17. 代码质量测试框架，比如sona，和内存检测工具等
 
+必须了解和使用的代码框架：
+1. volley https://github.com/mcxiaoke/android-volley
+2. mquery http://www.eoeandroid.com/thread-545654-1-1.html
+3. actionbar
+
 高级研发经理
 
 
@@ -36,6 +41,9 @@
 2. 微信分享 http://blog.csdn.net/freesonhp/article/details/10756663
 3. 多态和接口 http://www.cnblogs.com/mengdd/archive/2012/12/25/2832656.html
 4. qq空间分享 http://xiaoxiaomuyu.iteye.com/blog/2097746
+5. 优秀的开源代码 http://blog.csdn.net/cym492224103/article/details/38469251
+6. 很多整理的代码 http://blog.csdn.net/cym492224103/article/details/38467611
+7. UI 框架代码 http://guides.codepath.com/android
 
 需要补充
 
