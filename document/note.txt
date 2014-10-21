@@ -1,0 +1,29 @@
+1. java 反射机制 http://blog.csdn.net/nieweilin/article/details/5908165
+定义：在运行状态中，对于任意一个类,都能知道这个类的所有属性和方法；对于任意对象，都能够调用它的任意方法；
+这种动态获取的信息以及动态调用对象的方法功能称为反射。
+
+2.反射机制如何实现
+java.lang.Class这个类 ,java 程序运行时，系统一直对所有对象进行所谓的运行时标识。这项信息记录每个对象所属的类。虚拟机通常使用运行时
+类型信息选择正确方法执行，用来保存这些类型信息的是Class类.
+
+也就是说ClassLoader找到了需要调用的类时(java 为了调控内存的调用消耗，类的加载都需要在需要时再进行，很抠但是很有效)，就会加载它，
+然后根据.class文件内记载的类信息来产生一个与该类相联系的独一无二的对象，该class对象记载了该类的属性和方法。以后jvm要产生该类的实例，
+就是根据内存中存在的该class类所记载的信息（Class对象应该和我所了解的其他类一样会在堆内存内产生、消亡）来进行.
+
+java 中的Class类对象是可以人工自然性的（也就是说开放的）得到的（虽然你无法像其他类一样运用构造器来得到它的实例，因为
+Class对象都是jvm产生的。不过话说回来，客户产生的话也是无意义的），而且，更伟大的是，基于这个基础，java实现了反射机制。
+
+获取Class对象的三种方法：
+1.通过Object类的getClass()方法，Class c1 = new String("").getClass();
+2.通过Class类的静态方法-forName()来实现，Class c2 = Class.forName("");
+3.如果T是一个已经定义类型的话，在java中，它的.class文件名，T.class就代表了与其匹配的Class对象，例如：
+Class c3 = Manager.class; Class c4 = int.class; Class c5 = Double[].class;
+
+这里需要解释一下3: 请记住一句话，在java中一切皆对象。也就是说，基本类型int float等也会在jvm的内存池像其他类型一样中生成一个Class对象，
+而数组等组合型数据类型也是会生成一个Class对象的，而且更令人惊讶的是，java中数组的本来面目其实就是某个类，惊讶
+中的惊讶是，含有相同元素的相同维数的数组还会共同享用同一个Class对象！其实根据我的臆想，数组的length性质应该就保存在这个Class
+对象里面。
+
+android  中的反射 http://www.apkbus.com/android-1259-1-1.html
+
+studio  http://www.android-studio.org/index.php/docs/guide/135-gradle-2
