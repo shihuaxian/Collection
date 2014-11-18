@@ -49,6 +49,8 @@
 6. 很多整理的代码 http://blog.csdn.net/cym492224103/article/details/38467611
 7. UI 框架代码 http://guides.codepath.com/android
 8. 进阶 http://www.trinea.cn/android/ 
+9. 优秀的代码：http://blog.csdn.net/shulianghan/article/details/18046021 and
+   http://www.trinea.cn/android/android-open-source-projects-excellent-project/
 
 需要补充
 
