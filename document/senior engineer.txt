@@ -1,3 +1,6 @@
+//随着年龄的增大，不再年轻的我也逐渐，被岁月的冲刷，没有了雄心壮志，或者说野心；虽然仍然不屈于命运安排，但是在命运的压迫下，显的苍茫无力；
+//憋着内心的嘶哑，默默的反抗着，我相信命运可以主宰，天若不愿，我便逆天。
+
 产品经理从入门到大神：
 1. http://www.woshipm.com/pmd/110373.html
 2. 产品经理常用软件 http://www.woshipm.com/pmd/110721.html
@@ -19,17 +22,25 @@
 12. android 源码研究
 13. 超牛的github项目
 14. 精通Android开发平台及框架原理；
+
 15. 有应用上架经验，熟悉各个Android软件市场规则和玩法者优先
 16. 精通Android性能和内存优化，善于解决系统崩溃，内存溢出和兼容性问题
 
 17. 代码质量测试框架，比如sona，和内存检测工具等
+18. android 漂亮UI必备 http://www.eoeandroid.com/thread-328300-1-1.html
+19. ImageLoader 详解，图片缓存详解 http://www.cnblogs.com/kissazi2/p/3931400.html
+20. 提升的基本书籍 http://www.java1234.com/a/javabook/andriod/2013/1102/999.html
+
 
 必须了解和使用的代码框架：
 1. volley https://github.com/mcxiaoke/android-volley
 2. mquery http://www.eoeandroid.com/thread-545654-1-1.html
 3. actionbar
 
+4. android 漂亮UI必备 http://www.eoeandroid.com/thread-328300-1-1.html
+
 高级研发经理
+UI 设计神器 http://romannurik.github.io/AndroidAssetStudio/
 
 
 产品经理
@@ -69,3 +80,17 @@
 
 //扫描视频
 12.http://my.oschina.net/AlexZhuang/blog/57695
+
+
+
+
+创业企业，融资新企业
+
+1. 爱辅导 http://www.aifudao.com
+2. 企业沟通协作平台imo完成C+轮融资，累计融资额达3000万美元 http://www.imoffice.com
+3. 手游开发引擎白鹭引擎获得顺为资本1000万美元A轮融资 http://www.egret-labs.org
+4. 猎上网获红杉、IDG 2000万美元B轮投资	http://www.hunteron.com
+5. 演示文稿软件Prezi获得5700万美元私募股权融资 http://prezi.com
+6. 美国的“滴滴快的”Flywheel获1200万美元C轮融资 https://www.flywheel.com
+7. 云薪资管理初创公司ZenPayroll融资2000万美元  https://zenpayroll.com
+8. http://startupclass.club
