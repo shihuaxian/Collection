@@ -27,3 +27,31 @@ Class c3 = Manager.class; Class c4 = int.class; Class c5 = Double[].class;
 android  中的反射 http://www.apkbus.com/android-1259-1-1.html
 
 studio  http://www.android-studio.org/index.php/docs/guide/135-gradle-2
+
+1. AsyncTask 定义了三种范型类型 Params，Progress和Result
+Params 启动任务执行的输入参数，比如HTTP请求的URL
+Progress 后台任务执行的百分比
+Result 后台执行任务最终的返回结果, 比如String
+最少重写两个方法
+.doInBackground(Params ...)后台执行，比较耗时的操作都可以放在这里。这里不能操作UI。此方法在后台线程执行，
+完成任务的主要工作，通常需要较长的时间。在执行过程中可以调用publicProgress(Progress...)来更新任务进度
+.onPostExecute(Result)相当于Handler处理UI方式，在这里可以使用在doInBackground得到的结果处理操作UI。此方法在主线程
+执行，任务执行的结果作为此方法的参数返回。
+
+三个参数的意义
+第一个参数：传入doInBackground()方法的参数类型
+第二个参数：传入onProgressUpdate()方法的参数类型,在doInBackground方法当中,
+ 每次调用publishProgress方法都会触发onProgressUpdate执行  
+第三个参数：doInBackground()的返回值，和onPostExecute(String result)参数
+
+2. android:duplicateParentState
+实例：比如RelativeLayout下有两个TextView,这两个TextView具有不同的颜色值，现在要的效果是,
+当这个RelativeLayout 被点击的时候，整个item有高亮背景，同时两个TextView要变色。
+就是父控件响应点击事件，子view不响应点击事件，但是颜色要随着点击而发生变化。
+这样就用到了android:duplicateParentState
+
+android:dulplicateParentState
+”如果设置此属性，将直接从父容器中获取绘图状态（光标，按下等）。 注意仅仅是获取绘图状态，而没有获取事件，
+也就是你点一下LinearLayout时Button有被点击的效果，但是不执行点击事件“
+
+3. 
