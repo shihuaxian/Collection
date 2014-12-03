@@ -54,4 +54,8 @@ android:dulplicateParentState
 ”如果设置此属性，将直接从父容器中获取绘图状态（光标，按下等）。 注意仅仅是获取绘图状态，而没有获取事件，
 也就是你点一下LinearLayout时Button有被点击的效果，但是不执行点击事件“
 
-3. 
+3. TextView 加下划线 
+textView.getPaint().setFlags(Paint.UNDERLINE_TEXT_TAG);
+textView.getPaint().setAntiAlias(true);
+
+textView 底线focus不一样的颜色，是用_9.png 来变换；textView闪标 android:textCursorDrawable = "";来修改
