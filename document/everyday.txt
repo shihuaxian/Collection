@@ -1,0 +1,68 @@
+http://www.woshipm.com/tag/pmd
+http://www.chinapm.com.cn/
+
+http://www.pmtoo.com/news/
+
+Axure,ProcessOn 工具
+
+图片放大
+图片存储
+自定义btn
+线程池
+
+熟悉Android下网络通信机制，对Socket通信、TCP/IP和http/https有一定理解和经验，熟悉Android平台下的多线程
+
+android player
+http://blog.csdn.net/column/details/simplebeautymusicpla.html
+
+音乐播放器
+
+http://blog.csdn.net/wwj_748/article/details/9256251
+
+http://blog.csdn.net/lnb333666/article/details/8460159
+
+http://www.chanpin100.com/article-1446-1.html  //产品设计尺寸
+
+深入理解java 注释  http://www.cnblogs.com/peida/archive/2013/04/23/3036035.html
+
+http://www.axure.us/
+
+读书:
+TED 《身体语言的秘密》《lie to me》
+《超级聊天术》《5分钟和陌生人成为朋友》《重塑心灵》
+
+http://www.webppd.com/thread-8161-1-1.html
+
+仿网易新闻
+http://blog.csdn.net/gebitan505/article/details/15506353
+http://www.eoeandroid.com/thread-547772-1-1.html
+
+下拉刷新
+http://www.eoeandroid.com/thread-555949-1-1.html
+
+
+Intent 和PenddingIntent 区别
+Service startCommond 的参数
+
+
+周鸿祎 吐血推荐 
+
+《硅谷热》 《商业秀》《异类》
+
+2014.12.21
+1. firechat  在无网络的情况下，也可以进行聊天。母公司 OpenGarden
+2. 国外学习网站http://www.pluralsight.com/
+3. 国内智能手表刷机 http://ticwear.com/ (有点像MIUI)
+4. 这些产品大神们的意思是，不应该是简单满足用户需求，而应该把用户的需求提炼成产品需求。
+当一个产品的用户有上百万上千万的时候，产品需求的理解和提炼，就相当重要。
+5. 国内体感车，乐行天下
+6. 匿名聊天https://chatous.com/ 类似 http://www.omegle.com/
+7. 图片叫标签玩法，融资3600万美金 http://oneniceapp.com/
+8. 巨衫数据库 SequoiaDB 开源,分布式数据库，存储JSON文档类数据格式 http://www.sequoiadb.com/
+9. Costco
+10. the most important festive holidays in Chinese culture (中国最重要的欢乐的节日)
+Chinese lunar calendar(中国的农历)
+wish you luch and properity(恭喜发财)
+11. http://www.kuaijvshou.com/
+12. 粉粉日记 http://www.fenfenriji.com/
+13. 
