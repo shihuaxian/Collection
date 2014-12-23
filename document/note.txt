@@ -59,3 +59,19 @@ textView.getPaint().setFlags(Paint.UNDERLINE_TEXT_TAG);
 textView.getPaint().setAntiAlias(true);
 
 textView 底线focus不一样的颜色，是用_9.png 来变换；textView闪标 android:textCursorDrawable = "";来修改
+SpannableString 来设置字体颜色，下划线，超链接
+
+
+4. 命令模式 http://www.cnblogs.com/java-my-life/archive/2012/06/01/2526972.html
+
+命令模式属于对象的行为模式。命令模式又称为行动(Action)模式或交易(Transaction)模式.
+命令模式把一个请求或者操作封装到一个对象中。命令模式允许系统使用不同的请求把客户端参数化，
+对请求排队或者记录请求日志，可以提供命令的撤销和恢复功能。
+
+5. 
+
+bindApplication
+activity start
+Looper n-1 Thread
+HardWareRender
+relayoutWindow
