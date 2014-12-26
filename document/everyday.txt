@@ -66,3 +66,30 @@ wish you luch and properity(恭喜发财)
 11. http://www.kuaijvshou.com/
 12. 粉粉日记 http://www.fenfenriji.com/
 13. 
+
+
+2014.12.23
+1. 当机会来临时，它习惯于从后面溜进来，而且常常以“不幸”或“暂时的挫折”作为伪装。也因为如此，
+许多人看不出什么是机会。
+失败是个骗子，它对人尖刻和狡猾，喜欢当胜利近在咫尺时，将人绊倒。
+2. 极致就是先把自己逼疯
+
+2014.12.24
+1. Android 系统在启动过程中，会启动一个应用程序管理服务PackageManagerService,这个服务负责扫描
+系统中特定的目录，找到里面的应用程序文件，即以apk为后缀的文件，然后对这些文件进行解析，得到应用程序的相关信息,
+完成应用程序的安装过程。
+应用程序管理服务PackageManagerService安装应用程序的过程，其实就是解析析应用程序配置文件AndroidManifest.xml的过程，
+并从里面得到得到应用程序的相关信息，例如得到应用程序的组件Activity、Service、Broadcast Receiver
+和Content Provider等信息，有了这些信息后，通过ActivityManagerService这个服务，
+我们就可以在系统中正常地使用这些应用程序了。
+应用程序管理服务PackageManagerService是系统启动的时候由SystemServer组件启动的，启后它就会执行应用程序安装的过程
+2. Android 中滑屏实现 http://blog.csdn.net/qinjuning/article/details/7419207
+3. 小米的三三法则：1. 做爆品，做粉丝，做自媒体 2.开放参与节点，设计互动方式，扩展口碑事件
+4. 插件研究
+
+2014.12.26
+1. 开源的项目，有一些创新大家都需要，但是又没人做的东西
+2. 一些不需要翻墙就可以下载的网址 http://www.androiddevtools.cn/
+3. 天气的API数据 http://www.eoeandroid.com/thread-558453-1-1.html
+4. 精品博客 杨丰盛 罗升阳
+5. http://holiday.lenovogift.net/?sid=f0a7d6aa&p=1 礼品选择
