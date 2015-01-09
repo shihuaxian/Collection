@@ -140,4 +140,9 @@ I'll look forward to hear from her.
 2015.1.8
 1. 界面闪烁问题，比如切换，隐藏显示等
 2. why did you bring that up? 为什么提到那个
-3. 
+
+2015.1.9
+1. GAE  https://github.com/goagent/goagent/blob/wiki/SimpleGuide.md
+2. http://www.slideshare.net/
+3. 博讯网
+4. 
