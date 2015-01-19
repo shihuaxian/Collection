@@ -82,3 +82,16 @@ relayoutWindow
 (3.)任务接口(Task):每个任务必须实现的接口，以供工作线程调度任务的执行，它主要规定了任务的入口，
 任务执行完后的收尾工作，任务的执行状态等。
 (4.)任务队列(taskQueue):用于存放没有处理的任务，提供一种缓存机制。
+
+7. app 也可以自定义属于自己的permission或属于开发者使用的同一个签名的permission。定义一个permission
+就是在menufest文件中增加一个permission标签
+<permission android:description="string resource"  
+            android:icon="drawable resource"  
+            android:label="string resource"  
+            android:name="string"  
+            android:permissionGroup="string"  
+            android:protectionLevel=["normal" | "dangerous" |   
+                                     "signature" | "signatureOrSystem"] />  
+
+8. getRawX()和getRawY()获得的是相对屏幕的位置(这个屏幕的左上角是手机屏幕的左上角,不管activity是否有titlebar
+或是否全屏)，getX()和getY()获得的永远是view的触摸位置坐标,是表示widget相对于自身左上角的x坐标.

@@ -145,4 +145,36 @@ I'll look forward to hear from her.
 1. GAE  https://github.com/goagent/goagent/blob/wiki/SimpleGuide.md
 2. http://www.slideshare.net/
 3. 博讯网
-4. 
+
+2015.1.13
+1. catch up with 怀旧
+2. what have you been up to lately?  最近你在忙什么
+Let's go grab lunch together.
+I kind of like you!我喜欢你
+3. android 必备 http://www.eoeandroid.com/thread-495561-1-1.html
+4. android  每周咨询
+5. 自定义view http://www.apkbus.com/plugin.php?id=buskc&modo=view&kvid=104
+
+2015.1.14
+1. 计算机程序的构造和解释
+代码大全（第二版）
+程序员修炼之道
+重构
+算法导论
+离散数学及其应用
+人月神话
+
+2015.1.16
+1. 现在的我遇到严重的困难，有些畏惧，甚至想要放弃的时候，我会问自己：在此之前，有没有任何一件事情，
+是你尽努力了，全力争取了，最后却没有成功？答案是没有。似乎只要努力过，争取过的事情，从来没有失败的例子。
+2. 有一种成功叫永不放弃，有一种成功叫继续努力。
+3. 过去的习惯决定今天的你，所以过去的懒惰，决定你今天的一败涂地。
+4. 人哪，你可以失败，也可以从失败中站起
+5. 10个 iphone开发网站论坛，博客 http://www.cocoachina.com/bbs/read.php?tid-132036.html 
+
+2015.1.19
+1. 静下心来
+2. 专注一件事情
+3. http://blog.csdn.net/qinjuning/article/details/7416208
+4. scroller http://blog.csdn.net/qinjuning/article/details/7419207
+5. http://blog.csdn.net/xiaanming/article/details/17483273
