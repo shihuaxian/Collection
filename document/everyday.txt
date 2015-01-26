@@ -178,3 +178,28 @@ I kind of like you!我喜欢你
 3. http://blog.csdn.net/qinjuning/article/details/7416208
 4. scroller http://blog.csdn.net/qinjuning/article/details/7419207
 5. http://blog.csdn.net/xiaanming/article/details/17483273
+
+2015.1.20
+1. Beepi 美国二手车交易网站
+2. 中老年的电商 mebama.cn
+3. 亲子，神奇叫叫app
+4. HoursTracker
+5. UI 设计网 http://www.uisheji.com/241679.html
+
+2015.1.21
+1. 版画收藏
+2. focus
+
+2015.1.22
+1. focus
+2. time
+3. http://blog.csdn.net/dlutbrucezhang/article/details/8520666
+4. http://aiquantong.iteye.com/blog/1882678 iphone 开发
+
+2015.1.26
+1. 需要有自己的代码生成工具
+2. scrooler
+3. http://androidweekly.net/
+4. https://android-arsenal.com/ 国外开源项目
+5. https://github.com/Trinea/android-open-project 国内开源项目
+

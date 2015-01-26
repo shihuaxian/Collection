@@ -95,3 +95,8 @@ relayoutWindow
 
 8. getRawX()和getRawY()获得的是相对屏幕的位置(这个屏幕的左上角是手机屏幕的左上角,不管activity是否有titlebar
 或是否全屏)，getX()和getY()获得的永远是view的触摸位置坐标,是表示widget相对于自身左上角的x坐标.
+
+9. adb logcat filter
+   adb logcat | grep Something
+   adb logcat | grep -i Something  忽略大小写
+10.
