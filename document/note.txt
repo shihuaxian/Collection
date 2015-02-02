@@ -99,4 +99,8 @@ relayoutWindow
 9. adb logcat filter
    adb logcat | grep Something
    adb logcat | grep -i Something  忽略大小写
-10.
+10. ViewGroup 有三种测量方式
+   EXACTLY: 表示设置了精确的值，一般当childView设置其宽，高为精确值、match_parent时，ViewGroup会设置为EXACTLY.
+   AT_MOST: 表示子布局被限制在一个最大值内，一般当childView设置其宽、高为wrap_content,ViewGroup会设置为AT_MOST.
+   UNSPECIFIED:表示子布局想要多大就多大，一般出现在AdapterView的item的heightMode中，
+   ScrollView的childView的heightMode中;此模式很少见.

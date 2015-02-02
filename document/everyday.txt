@@ -203,3 +203,32 @@ I kind of like you!我喜欢你
 4. https://android-arsenal.com/ 国外开源项目
 5. https://github.com/Trinea/android-open-project 国内开源项目
 
+2015.1.27
+1. onBindView()
+2. 运动app 开练
+3. 微软刚刚宣布收购以色列文本分析公司Equivio
+
+2015.1.28
+1. Car+ 定义汽车"驾驶交互"
+2. 饿了么,荔枝FM
+3. 移动游戏媒体魔方网
+4. 新加坡大数据公司 Antuit 
+5. 开发机器写手的Persado获2100万美元融资
+6. 交友平台The League获210万美元融资  http://www.theleagueapp.co/
+he League 由斯坦福毕业生 Amanda Bradford 创立，是一款面向以结婚为目的，
+正经交友的精英们的社交软件。它防骚扰，防尴尬，防假资料，防窥淫狂，防感情骗子。
+The League 在近日的种子轮中获得了 210 万美元的融资，
+投资方有 IDG Ventures，Structure Capital，SherpaVentures 等。
+7. 移动端应用深度链接服务商Button宣布完成1200万美元A轮融资
+Button是一个移动端应用的深度链条，把一些可能有业务关联的 App 有逻辑地连接在一起。
+比如说，餐厅预定软件 Resy 和租车软件 Uber 链接后，
+用户只要进入 Button，便可以完成从预定座位到预约租车一系列的动作，
+而不用把它们都打开然后逐个预定。在上线8个月后，Button完成 1200 万美元 A 轮融资，
+领投为 Redpoint Ventures，另外该公司的 Chris Moore 将加入 Button 董事会。
+8.AbleCloud 大数据 http://ablecloud.cn/
+
+2015.1.29
+1. 了解android onMeasure
+2. ios button click
+3. 博客 http://blog.csdn.net/lmj623565791/article/details/38339817
+4. 社交客服公司 Sparkcentral
